@@ -1,5 +1,4 @@
-# CortanaHook
-Hacking android cortana using Xposed Framework
+# CortanaHook - The first Cortana interceptor without a middleman
 
 ## The protocol
 
